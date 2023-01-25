@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
+
+
+.title-bar{
+    -webkit-app-region: drag;
+}
+
+#title-label{
+    font-family: "Inter", "Roboto Mono", "sans-serif";
+    font-size: 12px;
+    padding: 10PX;
+    font-weigth: 900;
+}

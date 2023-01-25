@@ -1,0 +1,23 @@
+.buttons{
+   
+    display: inline-block;
+    gap: 1.8rem;
+}
+
+.btns{
+    justify-content: center;
+    display: inline-block;
+    margin-inline: auto;
+    gap: 40px;
+}
+
+#play{
+    margin-top: 480px;
+    margin-left: 250px;
+}
+
+#forward{
+    margin-top: 480px;
+    margin-left: 150px;
+}
+

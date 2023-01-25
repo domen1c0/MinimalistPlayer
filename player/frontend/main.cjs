@@ -2,8 +2,14 @@ const {app, BrowserWindow} = require("electron");
 
 function createWindow(){
     const win = new BrowserWindow({
-        width: 700,
-        height: 2000,
+        width: 500,
+        height: 800,
+        titleBarStyle: 'hidden',
+        titleBarOverlay: {
+            color: '#faf1e4',
+            height: 20
+        },
+        resizable: false
     });
     win.loadURL("http://localhost:5173/");
 }
