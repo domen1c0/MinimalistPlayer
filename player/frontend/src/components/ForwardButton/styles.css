@@ -1,16 +1,9 @@
 .forward-btn{
     width: 0px;
-    display: flex;
-    justify-content: center;
     cursor: pointer;
-    align-items: center;
-    
-    padding: 0;
-    font-size: 0;
 }
 
 .forward-btn img{
     width: 50px;
     height: 50px;
-    color: #618c56;
 }

@@ -1,0 +1,9 @@
+.backward-btn{
+  width: 0px;
+  cursor: pointer;
+}
+
+.backward-btn img{
+  width: 50px;
+  height: 50px;
+}

@@ -1,23 +1,29 @@
 .buttons{
-   
-    display: inline-block;
-    gap: 1.8rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 650px;
+    margin-inline: auto;
+    gap: 150px;
+    box-shadow: 0 -10px 20px 0.1px rgb(109, 108, 108);
+    padding-right: 50px;
+    padding-bottom: 30px;
+    
 }
 
 .btns{
-    justify-content: center;
-    display: inline-block;
-    margin-inline: auto;
-    gap: 40px;
+    margin-top: 30px
 }
 
 #play{
-    margin-top: 480px;
-    margin-left: 250px;
+
 }
 
 #forward{
-    margin-top: 480px;
-    margin-left: 150px;
+    
+}
+
+#backward{
+    
 }
 

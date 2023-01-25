@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "main" : "main.cjs",
+  "main": "main.cjs",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -15,7 +15,7 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@types/react": "^18.0.26",
+    "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.9",
     "@vitejs/plugin-react": "^3.0.0",
     "electron": "^22.0.3",

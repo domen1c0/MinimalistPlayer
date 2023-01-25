@@ -1,11 +1,6 @@
 .play-btn{
     width: 0px;
-    display: flex;
-    justify-content: center;
     cursor: pointer;
-    align-items: center;
-    
-    font-size: 0;
 }
 
 .play-btn img{

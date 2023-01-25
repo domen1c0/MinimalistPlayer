@@ -9,6 +9,9 @@ function createWindow(){
             color: '#faf1e4',
             height: 20
         },
+        frame: false,
+        transparent: true,
+        maximizable: false,
         resizable: false
     });
     win.loadURL("http://localhost:5173/");
